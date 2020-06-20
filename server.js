@@ -10,5 +10,8 @@ app.use(express.static("./public/"))
 const clientRoutes = require("./routes/client-routes")
 app.use("/", clientRoutes)
 
+const apiRoutes = require("./routes/api-routes")
+app.use(apiRoutes);
+
 
 app.listen(PORT, () => console.log(`We are listening http://localhost:${PORT}`))
