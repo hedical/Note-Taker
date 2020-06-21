@@ -1,9 +1,5 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
     "title": "Title for my note",
     "text": "Text for my note",
     "id": 2
@@ -16,47 +12,11 @@
   {
     "title": "Title for my note",
     "text": "Text for my note",
-    "id": 4
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note",
     "id": 5
   },
   {
     "title": "Title for my note",
     "text": "Text for my note",
     "id": 6
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note"
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note"
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note"
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note"
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note",
-    "id": 11
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note",
-    "id": 12
-  },
-  {
-    "title": "Title for my note",
-    "text": "Text for my note",
-    "id": 13
   }
 ]
