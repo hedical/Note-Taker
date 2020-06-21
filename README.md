@@ -18,9 +18,8 @@ No licence
 Not credits
     
 # Questions
-![logo](https://avatars3.githubusercontent.com/u/59237050?v=4)
 - Hedi Calabrese
-- Email : Not defined
+- username : hedical
 
 ## Main Language used in this repo              
 ![badge](https://img.shields.io/badge/-JavaScript-blue)
